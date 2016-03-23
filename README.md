@@ -14,6 +14,10 @@
 
 ### Genymotion
 * [ ] SK TBD
+*
+
+### AngularJS / Ionic και AngularJS
+* [ ] SK TBD
 
 ### Grunt and Bower
 * [ ] SK TBD
