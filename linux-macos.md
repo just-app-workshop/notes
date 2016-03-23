@@ -1,4 +1,4 @@
-## PREPARE YOUR LINUX/OSX BOX FOR IONIC DEVELOPMENT
+# PREPARE YOUR LINUX/OSX BOX FOR IONIC DEVELOPMENT
 
 This short guide will help you to prepare your Windows machine for Ionic development. In addition to this a set of very useful tools that boost your productivity will be suggested for installation.
 ### THE BASICS
