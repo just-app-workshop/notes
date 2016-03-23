@@ -13,7 +13,7 @@
 * [JustApp - Cordova/Phonegap & Ionic - Εισαγωγή και παραδείγματα](https://docs.google.com/presentation/d/1AdYCEbb-PMWlEkLFrWk0vg-fmSOXycT6A7uBpg9122E/edit#slide=id.p)
 
 ### Genymotion
-*[ ] SK TBD
+* [ ] SK TBD
 
 ### Grunt and Bower
-*[ ] SK TBD
+* [ ] SK TBD
