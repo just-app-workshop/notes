@@ -2,6 +2,16 @@
 
 This short guide will help you to prepare your Windows machine for Ionic development. In addition to this a set of very useful tools that boost your productivity will be suggested for installation.
 ### THE BASICS
+#### Git
+As a prerequisite for the setup of all the tools that will be installed later on, you will need to install Git in order to download any necessary libraries etc. To install Git run the command:
+
+* sudo apt-get install git
+
+Test: 
+```
+git --version
+```
+
 #### NODEJS
 To install the Node.js platform download and execute the installer which is provided in the official web page
 
