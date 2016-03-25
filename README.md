@@ -10,7 +10,7 @@
 * [Windows] (https://github.com/just-app-workshop/notes/blob/master/windows.md)
 
 ### Cordova / Phonegap and Ionic
-* [JustApp - Cordova/Phonegap & Ionic - Εισαγωγή και παραδείγματα](https://docs.google.com/presentation/d/1AdYCEbb-PMWlEkLFrWk0vg-fmSOXycT6A7uBpg9122E/edit#slide=id.p)
+* [JustApp - Cordova/Phonegap & Ionic - Εισαγωγή και παραδείγματα](https://docs.google.com/presentation/d/1AdYCEbb-PMWlEkLFrWk0vg-fmSOXycT6A7uBpg9122E/edit?usp=sharing)
 
 ### Genymotion
 * [ ] SK TBD
