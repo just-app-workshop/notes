@@ -38,6 +38,8 @@
 #### Online tutorial
 * [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 
-
 ### Grunt and Bower
-* [ ] SK TBD
+* [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
+    * [Grunt Demo 1](https://github.com/just-app-workshop/grunt-demo-1) 
+* [Bower, A package manager for the web](http://bower.io/)
+    * [Bower Demo 1]() 
