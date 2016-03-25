@@ -25,7 +25,9 @@
 1. Create an HTML workspace
 2. Προσθήκη AngularJS `1.5.x` στην σελίδα `index.html` 
     * https://angularjs.org/
-3. 
+...
+...
+3. Επίδειξη Google Chrome Debugger
 
 ### Grunt and Bower
 * [ ] SK TBD
