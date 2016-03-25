@@ -42,4 +42,4 @@
 * [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
     * [Grunt Demo 1](https://github.com/just-app-workshop/grunt-demo-1) 
 * [Bower, A package manager for the web](http://bower.io/)
-    * [Bower Demo 1]() 
+    * [Bower Demo 1](https://github.com/just-app-workshop/bower-demo-1) 
