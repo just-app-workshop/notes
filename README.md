@@ -21,5 +21,10 @@
 ### AngularJS / Ionic και AngularJS
 * [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 
+#### Demo 1
+1. Create an HTML workspace
+2. Download AngularJS https://angularjs.org/
+3. 
+
 ### Grunt and Bower
 * [ ] SK TBD
