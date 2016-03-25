@@ -12,9 +12,9 @@
 ### Cordova / Phonegap and Ionic
 * [JustApp - Cordova/Phonegap & Ionic - Εισαγωγή και παραδείγματα](https://docs.google.com/presentation/d/1AdYCEbb-PMWlEkLFrWk0vg-fmSOXycT6A7uBpg9122E/edit?usp=sharing)
 
-### Genymotion
-* [ ] SK TBD
-*
+### Emulators
+* iOS Simulator
+* [Genimotion](https://www.genymotion.com/)
 
 ### AngularJS / Ionic και AngularJS
 * [ ] SK TBD
