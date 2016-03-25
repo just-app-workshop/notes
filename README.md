@@ -19,7 +19,7 @@
     * [Restaurant App](http://codecanyon.net/item/restaurant-ionic-full-application-with-firebase-backend/14680675)
 
 ### AngularJS / Ionic και AngularJS
-* [ ] SK TBD
+* [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 
 ### Grunt and Bower
 * [ ] SK TBD
