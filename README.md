@@ -23,7 +23,8 @@
 
 #### Demo 1
 1. Create an HTML workspace
-2. Download AngularJS https://angularjs.org/
+2. Προσθήκη AngularJS `1.5.x` στην σελίδα `index.html` 
+    * https://angularjs.org/
 3. 
 
 ### Grunt and Bower
