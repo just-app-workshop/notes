@@ -14,7 +14,7 @@
 
 ### Emulators
 * iOS Simulator
-* [Genimotion](https://www.genymotion.com/)
+* [Genymotion](https://www.genymotion.com/)
 * Demo .APK
     * [Restaurant App](http://codecanyon.net/item/restaurant-ionic-full-application-with-firebase-backend/14680675)
 
