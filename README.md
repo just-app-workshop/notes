@@ -5,7 +5,7 @@
 ### Εισαγωγή
 * [Εισαγωγή](https://docs.google.com/presentation/d/1AAZmbbWhKPyoUTJNhaMEGWt1jhg749qOTRyYReL-oYw/edit?usp=sharing)
 
-### PREPARE YOUR BOX FOR IONIC DEVELOPMENT
+### Prepare your box for Ionic development
 * [Linux / MacOS] (https://github.com/just-app-workshop/notes/blob/master/linux-macos.md)
 * [Windows] (https://github.com/just-app-workshop/notes/blob/master/windows.md)
 
