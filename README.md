@@ -37,7 +37,7 @@
 ##### Online tutorial
 * [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 
-#### Ionic Demo 1
+#### [Ionic Demo 1](https://github.com/just-app-workshop/ionic-demo-1)
 * Αρχικοποίηση `ionic start demo-1`
 * Εκκίνηση `ionic serve`
 * Chats
