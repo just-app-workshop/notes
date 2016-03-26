@@ -20,7 +20,7 @@
 
 ### AngularJS / Ionic και AngularJS
 
-#### [Demo 1](https://github.com/just-app-workshop/angular-demo-1)
+#### [Angular Demo 1](https://github.com/just-app-workshop/angular-demo-1)
 1. Create an HTML workspace [commit](https://github.com/just-app-workshop/angular-demo-1/commit/cd59cf45676cf3050da0b4dd32ca77eed66cd440)
 2. Προσθήκη AngularJS `1.5.x` στην σελίδα `index.html` [commit](https://github.com/just-app-workshop/angular-demo-1/commit/1a5ea434b0bb6afb2e9d0a71a71126b67ad68129)
     * https://angularjs.org/
@@ -34,8 +34,12 @@
 10. Κάνε μια βόλτα [commit](https://github.com/just-app-workshop/angular-demo-1/commit/c8f62f6d21a1655c09862e33e2b78be8ae9d2adb)
 11. Πρόσεχε μην εξουθενωθείς [commit](https://github.com/just-app-workshop/angular-demo-1/commit/7525b9529c0859f13264fbef68e8a0a6cffb3fc8)
 
-#### Online tutorial
+##### Online tutorial
 * [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+
+#### Ionic Demo 1
+* Αρχικοποίηση `ionic start demo-1`
+* Εκκίνηση `ionic serve`
 
 ### Grunt and Bower
 * [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
