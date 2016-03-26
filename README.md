@@ -40,6 +40,7 @@
 #### Ionic Demo 1
 * Αρχικοποίηση `ionic start demo-1`
 * Εκκίνηση `ionic serve`
+* Σχέση/Σύνδεση View με Controller [`app.js` / Chats](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/app.js#L55)
 
 ### Grunt and Bower
 * [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
