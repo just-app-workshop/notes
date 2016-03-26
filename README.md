@@ -64,4 +64,4 @@
 * [Dependency Injection and AngularJS](https://docs.angularjs.org/guide/di)
 * [A beginners guide to Dependency Injection](http://www.theserverside.com/news/1321158/A-beginners-guide-to-Dependency-Injection)
 * [Martin Fowler, Dependency Injection pattern](http://www.martinfowler.com/articles/injection.html)
-* Επίδειξη: 
+* Επίδειξη: [Inject a service in `controllers.js`](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/controllers.js#L5)
