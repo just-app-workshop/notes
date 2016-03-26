@@ -51,7 +51,7 @@
    * [`app.js`](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/app.js#L53)
    * [`services.js`](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/services.js#L7)
    * [`controller.js`](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/controllers.js#L14)
-* Προσθήκη νέας επαφής
+* Επίδειξη: Προσθήκη νέας επαφής
 
 ### Grunt and Bower
 * [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
