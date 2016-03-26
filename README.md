@@ -33,7 +33,6 @@
 9. Επίδειξη Google Chrome Debugger
 10. Κάνε μια βόλτα [commit](https://github.com/just-app-workshop/angular-demo-1/commit/c8f62f6d21a1655c09862e33e2b78be8ae9d2adb)
 11. Πρόσεχε μην εξουθενωθείς [commit](https://github.com/just-app-workshop/angular-demo-1/commit/7525b9529c0859f13264fbef68e8a0a6cffb3fc8)
-12. 
 
 #### Online tutorial
 * [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
