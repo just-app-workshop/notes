@@ -57,4 +57,11 @@
 * [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
     * [Grunt Demo 1](https://github.com/just-app-workshop/grunt-demo-1) 
 * [Bower, A package manager for the web](http://bower.io/)
-    * [Bower Demo 1](https://github.com/just-app-workshop/bower-demo-1) 
+    * [Bower Demo 1](https://github.com/just-app-workshop/bower-demo-1)
+
+### Bonus: Dependency injection
+* [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
+* [Dependency Injection and AngularJS](https://docs.angularjs.org/guide/di)
+* [A beginners guide to Dependency Injection](http://www.theserverside.com/news/1321158/A-beginners-guide-to-Dependency-Injection)
+* [Martin Fowler, Dependency Injection pattern](http://www.martinfowler.com/articles/injection.html)
+* Επίδειξη: 
