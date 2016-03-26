@@ -40,7 +40,18 @@
 #### Ionic Demo 1
 * Αρχικοποίηση `ionic start demo-1`
 * Εκκίνηση `ionic serve`
-* Σχέση/Σύνδεση View με Controller [`app.js` / Chats](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/app.js#L55)
+* Chats
+    * Σχέση/Σύνδεση View με Controller [`app.js` / Chats](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/app.js#L55)
+    * View [`tab-chats.html`](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/templates/tab-chats.html)
+    * Controller [`controllers.js`](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/controllers.js#L5)
+    * Model
+        * [`controller.js`](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/controllers.js#L14)
+        * [`services.js`](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/services.js#L3)
+* Επίδειξη: Παρακολούθηση με Debugger. Breakpoints σε
+   * [`app.js`](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/app.js#L53)
+   * [`services.js`](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/services.js#L7)
+   * [`controller.js`](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/controllers.js#L14)
+* Προσθήκη νέας επαφής
 
 ### Grunt and Bower
 * [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
