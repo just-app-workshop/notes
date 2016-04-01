@@ -85,6 +85,9 @@
 ### Modular Αρχιτεκτονική με AngularJS. 
 Καλές πρακτικές και τεχνικές στην δόμηση του κώδικα.
 * [Supermodular Ionic](https://github.com/skounis/supermodular)
+    * [`App` folder](https://github.com/skounis/supermodular/tree/master/app/)
+    * [Home module](https://github.com/skounis/supermodular/tree/master/app/scripts/home)
+        * [Αναφορά στο `app.js`](https://github.com/skounis/supermodular/blob/master/app/scripts/app.js#L14)
 
 ### Bonus: Dependency injection
 * [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
