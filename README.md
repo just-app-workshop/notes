@@ -73,10 +73,10 @@
         * [TestFlight](https://developer.apple.com/testflight/)
     * Android
        * Google / Dropbox
-          * [Restaurant App](https://goo.gl/cHPRzD)
-          * [Business Directory](https://goo.gl/VEoJc2)
-          * [Catalogue](https://goo.gl/w8rJkJ)
-          * [Music Band](https://goo.gl/DEGfxP)
+          * [Restaurant App](https://goo.gl/cHPRzD) `AB64F538`
+          * [Business Directory](https://goo.gl/VEoJc2) `E1F02EDD`
+          * [Catalogue](https://goo.gl/w8rJkJ) `eca7b2b5`
+          * [Music Band](https://goo.gl/DEGfxP) `0cfd4232`
        * [Android File Transfer](https://www.android.com/filetransfer/)
     * [Ionic View](http://view.ionic.io/)
 
