@@ -53,11 +53,15 @@
    * [`controller.js`](https://github.com/just-app-workshop/ionic-demo-1/blob/master/www/js/controllers.js#L14)
 * Επίδειξη: Προσθήκη νέας επαφής
 
-### Grunt and Bower
+### Bower
 * [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
     * [Grunt Demo 1](https://github.com/just-app-workshop/grunt-demo-1) 
-* [Bower, A package manager for the web](http://bower.io/)
-    * [Bower Demo 1](https://github.com/just-app-workshop/bower-demo-1)
+
+## Εβδομάδα 2η
+
+### Grunt
+* [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
+    * [Grunt Demo 1](https://github.com/just-app-workshop/grunt-demo-1) 
 
 ### Bonus: Dependency injection
 * [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
