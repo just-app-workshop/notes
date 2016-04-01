@@ -83,8 +83,8 @@
     * [AngularJS generator](https://github.com/yeoman/generator-angular)
 
 ### Modular Αρχιτεκτονική με AngularJS. 
-Παρουσίαση καλών πρακτικών και τεχνικών στην δόμηση του κώδικα. [SK]
-
+Καλές πρακτικές και τεχνικές στην δόμηση του κώδικα.
+* [Supermodular Ionic](https://github.com/skounis/supermodular)
 
 ### Bonus: Dependency injection
 * [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
