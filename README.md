@@ -68,6 +68,18 @@
 * Demo .APK
     * [Restaurant App](http://codecanyon.net/item/restaurant-ionic-full-application-with-firebase-backend/14680675)
 
+### Version control
+Τεχνικές ανάπτυξης κώδικα, παρακολούθησης και συνεργασίας. 
+* [Git](https://git-scm.com/)
+* [GitHub](https://github.com/)
+* [Bitbucket](https://bitbucket.org/)
+* Παράδειγμα
+
+### Yeoman Generators. 
+Εισαγωγη στις γεννήτριες κώδικα και παραδείγματα χρήσης τους. [SK]
+
+### Modular Αρχιτεκτονική με AngularJS. 
+Παρουσίαση καλών πρακτικών και τεχνικών στην δόμηση του κώδικα. [SK]
 
 
 ### Bonus: Dependency injection
