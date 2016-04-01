@@ -53,11 +53,10 @@
 
 ## Εβδομάδα 2η
 
-### SASS. 
+### SASS
 * Εισαγωγη και παραδείγματα
 * HTML / CSS / SASS
 * Ionic
-
 
 ### Grunt
 * [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
