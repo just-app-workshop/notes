@@ -62,11 +62,23 @@
 * [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
     * [Grunt Demo 1](https://github.com/just-app-workshop/grunt-demo-1) 
 
-### Emulators
-* iOS Simulator
-* [Genymotion](https://www.genymotion.com/)
-* Demo .APK
-    * [Restaurant App](http://codecanyon.net/item/restaurant-ionic-full-application-with-firebase-backend/14680675)
+### Emulation / Run on device
+* Emulation / Simulation
+    * iOS Simulator
+    * [Genymotion](https://www.genymotion.com/)
+        * [Virtual Box](https://www.virtualbox.org/)
+* Run on Device
+    * iOS
+        * XCode
+        * [TestFlight](https://developer.apple.com/testflight/)
+    * Android
+       * Google / Dropbox
+          * [Restaurant App](https://goo.gl/cHPRzD)
+          * [Business Directory](https://goo.gl/VEoJc2)
+          * [Catalogue](https://goo.gl/w8rJkJ)
+          * [Music Band](https://goo.gl/DEGfxP)
+       * [Android File Transfer](https://www.android.com/filetransfer/)
+    * [Ionic View](http://view.ionic.io/)
 
 ### Version control
 Τεχνικές ανάπτυξης κώδικα, παρακολούθησης και συνεργασίας. 
