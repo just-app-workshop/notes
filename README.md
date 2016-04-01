@@ -89,6 +89,11 @@
     * [Home module](https://github.com/skounis/supermodular/tree/master/app/scripts/home)
         * [Αναφορά στο `app.js`](https://github.com/skounis/supermodular/blob/master/app/scripts/app.js#L14)
 
+### Ionic Starter Kit - Supermodular 
+Δημιουργία Ionic εφαρμογής με χρήση του Supermodular Starter Kit. 
+1. Fork του SuperModular
+2. Δημιουργία και προσθήκη του `movies` module
+
 ### Bonus: Dependency injection
 * [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
 * [Dependency Injection and AngularJS](https://docs.angularjs.org/guide/di)
