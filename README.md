@@ -12,12 +12,6 @@
 ### Cordova / Phonegap and Ionic
 * [JustApp - Cordova & Ionic - Εισαγωγή και παραδείγματα](https://docs.google.com/presentation/d/1AdYCEbb-PMWlEkLFrWk0vg-fmSOXycT6A7uBpg9122E/edit?usp=sharing)
 
-### Emulators
-* iOS Simulator
-* [Genymotion](https://www.genymotion.com/)
-* Demo .APK
-    * [Restaurant App](http://codecanyon.net/item/restaurant-ionic-full-application-with-firebase-backend/14680675)
-
 ### AngularJS / Ionic και AngularJS
 
 #### [Angular Demo 1](https://github.com/just-app-workshop/angular-demo-1)
@@ -59,9 +53,23 @@
 
 ## Εβδομάδα 2η
 
+### SASS. 
+* Εισαγωγη και παραδείγματα
+* HTML / CSS / SASS
+* Ionic
+
+
 ### Grunt
 * [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
     * [Grunt Demo 1](https://github.com/just-app-workshop/grunt-demo-1) 
+
+### Emulators
+* iOS Simulator
+* [Genymotion](https://www.genymotion.com/)
+* Demo .APK
+    * [Restaurant App](http://codecanyon.net/item/restaurant-ionic-full-application-with-firebase-backend/14680675)
+
+
 
 ### Bonus: Dependency injection
 * [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
