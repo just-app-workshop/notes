@@ -76,7 +76,11 @@
 * Παράδειγμα
 
 ### Yeoman Generators. 
-Εισαγωγη στις γεννήτριες κώδικα και παραδείγματα χρήσης τους. [SK]
+Εισαγωγη στις γεννήτριες κώδικα και παραδείγματα χρήσης τους.
+* [yeoman.io](http://yeoman.io/)
+* Παραδείγματα
+    * [HTML5 Boilerplate generator](https://github.com/h5bp/generator-h5bp)
+    * [AngularJS generator](https://github.com/yeoman/generator-angular)
 
 ### Modular Αρχιτεκτονική με AngularJS. 
 Παρουσίαση καλών πρακτικών και τεχνικών στην δόμηση του κώδικα. [SK]
