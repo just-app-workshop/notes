@@ -48,19 +48,19 @@
 * Επίδειξη: Προσθήκη νέας επαφής
 
 ### Bower
-* [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
-    * [Grunt Demo 1](https://github.com/just-app-workshop/grunt-demo-1) 
+* [Bower, A package manager for the web](http://bower.io/)
+    * [Bower Demo 1](https://github.com/just-app-workshop/bower-demo-1)
 
 ## Εβδομάδα 2η
+
+### Grunt
+* [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
+    * [Grunt Demo 1](https://github.com/just-app-workshop/grunt-demo-1) 
 
 ### SASS
 * Εισαγωγη και παραδείγματα
 * HTML / CSS / SASS
 * Ionic
-
-### Grunt
-* [GRUNT, The JavaScript Task Runner](http://gruntjs.com/)
-    * [Grunt Demo 1](https://github.com/just-app-workshop/grunt-demo-1) 
 
 ### Emulation / Run on device
 * Emulation / Simulation
