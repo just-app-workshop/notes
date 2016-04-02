@@ -102,7 +102,8 @@
         * [Αναφορά στο `app.js`](https://github.com/skounis/supermodular/blob/master/app/scripts/app.js#L14)
 
 ### Ionic Starter Kit - Supermodular 
-Δημιουργία Ionic εφαρμογής με χρήση του Supermodular Starter Kit. 
+Δημιουργία Ionic εφαρμογής με χρήση του Supermodular Starter Kit.
+
 1. Fork του SuperModular
 2. Δημιουργία και προσθήκη του `movies` module
 3. [Scaffold your next Ionic application](https://docs.google.com/document/d/1uxCuULrZwO0YBaJdbcy4omMs3e4bGPXmYpeb7kRu55Y/edit?usp=sharing)
