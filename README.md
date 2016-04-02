@@ -105,6 +105,7 @@
 Δημιουργία Ionic εφαρμογής με χρήση του Supermodular Starter Kit. 
 1. Fork του SuperModular
 2. Δημιουργία και προσθήκη του `movies` module
+3. [Scaffold your next Ionic application](https://docs.google.com/document/d/1uxCuULrZwO0YBaJdbcy4omMs3e4bGPXmYpeb7kRu55Y/edit?usp=sharing)
 
 ### Bonus: Dependency injection
 * [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
