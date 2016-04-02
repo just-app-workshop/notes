@@ -79,6 +79,9 @@
           * [Music Band](https://goo.gl/DEGfxP) `0cfd4232`
        * [Android File Transfer](https://www.android.com/filetransfer/)
     * [Ionic View](http://view.ionic.io/)
+        * [Screen 1](https://github.com/just-app-workshop/notes/blob/master/assets/ionic-view-1.png)
+        * [Screen 2](https://github.com/just-app-workshop/notes/blob/master/assets/ionic-view-2.png)
+        * [Screen 3](https://github.com/just-app-workshop/notes/blob/master/assets/ionic-view-3.png)
 
 ### Version control
 Τεχνικές ανάπτυξης κώδικα, παρακολούθησης και συνεργασίας. 
