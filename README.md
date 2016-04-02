@@ -58,9 +58,9 @@
     * [Grunt Demo 1](https://github.com/just-app-workshop/grunt-demo-1) 
 
 ### SASS
-* Εισαγωγη και παραδείγματα
-* HTML / CSS / SASS
-* Ionic
+* [Εισαγωγη και παραδείγματα](https://docs.google.com/presentation/d/1byfD9FaImigvrwrF4HETpmp89SNQPjmA-1epmYnpaUI/edit?usp=sharing)
+    * HTML / CSS / SASS
+    * Ionic
 
 ### Emulation / Run on device
 * Emulation / Simulation
