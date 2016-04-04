@@ -111,7 +111,27 @@
 2. Δημιουργία και προσθήκη του `movies` module
 3. [Scaffold your next Ionic application](https://docs.google.com/document/d/1uxCuULrZwO0YBaJdbcy4omMs3e4bGPXmYpeb7kRu55Y/edit?usp=sharing)
 
-### Bonus: Dependency injection
+## Ασκήσεις
+### Άσκηση 1 - AngularJS / Javascript
+Κάντε fork το παρακάτω repository και συμπληρώστε τα κενά στο αρχείο `app/scripts/controllers/play.js`. Υπάρχουν σχόλια με την ένδειξη `TODO`.
+
+* https://github.com/just-app-workshop/assignment-1
+
+Δουλέψτε στο δικό σας repository που θα προκύψει από την διαδικασία fork. Κάντε commit/push εκεί τις αλλαγές σας και όταν έχετε τελειώσει ετοιμάστε ένα [Pull Request](https://help.github.com/articles/using-pull-requests/)
+
+#### Οδηγίες
+Στο αρχείο `play.js` υπάρχουν 3 συναρτήσεις που 
+1. Αφαιρούν τους μονούς αριθμούς από έναν πίνακα τιμών.
+2. Αφαιρούνε τους ζυγούς αριρμούς από τον ίδιο πίνακα τιμών.
+3. Ταξινομούν το περιεχόμενο του πίνακα .
+
+Εχει προετοιμαστεί η δομή του κώδικα και ο σκελετός των μεθόδων, απουσιάζει όμως η υλοποίηση. Συμπληρώστε τα κενά σε αυτές τις μεθόδους και εξετάστε το αποτέλεσμα εκτελώντας την εφαρμογή `grunt serve` και εξετάζοντας το περιεχόμενο της σελίδας "Play".
+
+Τα σημεία όπου πρέπει να συμπληρώσετε τον κώδικα έχουν σημειωθεί με την ένδειξη `TODO`
+
+
+
+## Bonus: Dependency injection
 * [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
 * [Dependency Injection and AngularJS](https://docs.angularjs.org/guide/di)
 * [A beginners guide to Dependency Injection](http://www.theserverside.com/news/1321158/A-beginners-guide-to-Dependency-Injection)
@@ -121,3 +141,11 @@
 ## Χρήσιμοι σύνδεσμοι
 * [lorempixel](http://lorempixel.com/)
 * [lipsum](http://www.lipsum.com/)
+* GitHub Organization: just-app-workshop
+    * https://github.com/just-app-workshop/ 
+* Σημειώσεις Εργαστηρίου
+    * https://github.com/just-app-workshop/notes 
+* Facebook Event 
+    * https://www.facebook.com/events/1678337132424362/
+* Slack Channel
+    * https://justapp.slack.com 
