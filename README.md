@@ -132,6 +132,20 @@
     * [HTML5 Boilerplate generator](https://github.com/h5bp/generator-h5bp)
     * [AngularJS generator](https://github.com/yeoman/generator-angular)
 
+### [Amazon S3](https://aws.amazon.com/s3/)
+Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable cloud storage. Amazon S3 is easy to use object storage, with a simple web service interface to store and retrieve any amount of data from anywhere on the web. With Amazon S3, you pay only for the storage you actually use. There is no minimum fee and no setup cost.
+
+#### Παραδείγματα
+1. Δημιουργία Bucket
+2. Δημιουργία access key 
+3. Upload και ρύθμιση δικαιωμάτων 
+
+#### Tools
+* https://cyberduck.io
+* http://s3browser.com/
+
+
+
 ## Ασκήσεις
 ### Άσκηση 1 - AngularJS / Javascript
 Κάντε fork το παρακάτω repository και συμπληρώστε τα κενά στο αρχείο `app/scripts/controllers/play.js`. Υπάρχουν σχόλια με την ένδειξη `TODO`.
