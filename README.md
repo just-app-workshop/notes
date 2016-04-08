@@ -79,6 +79,24 @@
 
 ## Εβδομάδα 3η
 
+### Ασκηση 1 - Λύση και Παραδείγματα
+* [Ασκηση 1](https://github.com/just-app-workshop/assignment-1)
+* [Forks](https://github.com/just-app-workshop/assignment-1/network/members)
+* Βιβλιοθήκες
+    * [Underscore](http://underscorejs.org/#) 
+    * [Javascript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* Τελεστές
+    * [Javascript reference](http://www.w3schools.com/jsref/jsref_operators.asp)
+* Χρήσιμοι σύνδεσμοι
+    * [Bitwise operators](http://www.cprogramming.com/tutorial/bitwise_operators.html)
+    * [Βitwise calculator](http://www.miniwebtool.com/bitwise-calculator/)
+    * [Decimat to Binary](http://www.binaryhexconverter.com/decimal-to-binary-converter)
+        * `2 & 1` = `00000010 & 00000001` = `0`
+        * `3 & 1` = `00000011 & 00000001` = `1`
+        * https://github.com/achatzit/assignment-1/blob/master/app/scripts/controllers/play2.js
+* By Reference
+    * [Angular Copy](https://docs.angularjs.org/api/ng/function/angular.copy) 
+
 ### Emulation / Run on device
 * Emulation / Simulation
     * iOS Simulator
