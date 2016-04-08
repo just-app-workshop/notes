@@ -62,6 +62,23 @@
     * HTML / CSS / SASS
     * Ionic
 
+### Modular Αρχιτεκτονική με AngularJS. 
+Καλές πρακτικές και τεχνικές στην δόμηση του κώδικα.
+* [Supermodular Ionic](https://github.com/skounis/supermodular)
+    * [`App` folder](https://github.com/skounis/supermodular/tree/master/app/)
+    * [Home module](https://github.com/skounis/supermodular/tree/master/app/scripts/home)
+        * [Αναφορά στο `app.js`](https://github.com/skounis/supermodular/blob/master/app/scripts/app.js#L14)
+
+### Ionic Starter Kit - Supermodular 
+Δημιουργία Ionic εφαρμογής με χρήση του Supermodular Starter Kit.
+
+1. Fork του SuperModular
+2. Δημιουργία και προσθήκη του `movies` module
+3. [Scaffold your next Ionic application](https://docs.google.com/document/d/1uxCuULrZwO0YBaJdbcy4omMs3e4bGPXmYpeb7kRu55Y/edit?usp=sharing)
+
+
+## Εβδομάδα 3η
+
 ### Emulation / Run on device
 * Emulation / Simulation
     * iOS Simulator
@@ -96,20 +113,6 @@
 * Παραδείγματα
     * [HTML5 Boilerplate generator](https://github.com/h5bp/generator-h5bp)
     * [AngularJS generator](https://github.com/yeoman/generator-angular)
-
-### Modular Αρχιτεκτονική με AngularJS. 
-Καλές πρακτικές και τεχνικές στην δόμηση του κώδικα.
-* [Supermodular Ionic](https://github.com/skounis/supermodular)
-    * [`App` folder](https://github.com/skounis/supermodular/tree/master/app/)
-    * [Home module](https://github.com/skounis/supermodular/tree/master/app/scripts/home)
-        * [Αναφορά στο `app.js`](https://github.com/skounis/supermodular/blob/master/app/scripts/app.js#L14)
-
-### Ionic Starter Kit - Supermodular 
-Δημιουργία Ionic εφαρμογής με χρήση του Supermodular Starter Kit.
-
-1. Fork του SuperModular
-2. Δημιουργία και προσθήκη του `movies` module
-3. [Scaffold your next Ionic application](https://docs.google.com/document/d/1uxCuULrZwO0YBaJdbcy4omMs3e4bGPXmYpeb7kRu55Y/edit?usp=sharing)
 
 ## Ασκήσεις
 ### Άσκηση 1 - AngularJS / Javascript
