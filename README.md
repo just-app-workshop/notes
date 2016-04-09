@@ -143,6 +143,17 @@
 #### Tools
 * https://cyberduck.io
 * http://s3browser.com/
+* 
+
+### News App Ionic
+* Πηγές δεδομένων
+    * Static JSONs
+        * Articles JSON {TBD: URL} 
+    * Wordpress site
+        * http://demo.titaniumtemplates.com/wordpress/
+        * [JSON API Plugin](https://wordpress.org/plugins/json-api/)
+* Εργαλεία
+    * [Postman](https://www.getpostman.com/)
 
 
 
