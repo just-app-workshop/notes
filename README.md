@@ -149,6 +149,7 @@
 * 
 
 ### News App Ionic
+* Δημιουργία και Αρχικοποίηση Git Repo και σκελετού εφαρμογής
 * Πηγές δεδομένων
     * Static JSONs
         * Articles JSON {TBD: URL} 
