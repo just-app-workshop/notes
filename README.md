@@ -156,8 +156,9 @@
     * Wordpress site
         * http://demo.titaniumtemplates.com/wordpress/
         * [JSON API Plugin](https://wordpress.org/plugins/json-api/)
-* Εργαλεία
+* Εργαλεία και αναφορές
     * [Postman](https://www.getpostman.com/)
+    * [Ionicons](http://ionicons.com/)
 
 
 
