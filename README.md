@@ -175,7 +175,8 @@
 
 Τα σημεία όπου πρέπει να συμπληρώσετε τον κώδικα έχουν σημειωθεί με την ένδειξη `TODO`
 
-
+### Άσκηση 2 - Wordpress Call
+* {TBD: ανάκτηση ενός άρθρου με http request από το WP JSON API}
 
 ## Bonus: Dependency injection
 * [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
