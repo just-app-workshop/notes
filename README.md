@@ -161,6 +161,8 @@
     * [Ionicons](http://ionicons.com/)
     * AngularJS Filters
         * `limitTo` https://docs.angularjs.org/api/ng/filter/limitTo 
+    * Ionic Components
+       * Thumbnail left: http://ionicframework.com/docs/components/#item-thumbnails 
 
 
 
