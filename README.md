@@ -163,6 +163,7 @@
         * `limitTo` https://docs.angularjs.org/api/ng/filter/limitTo 
     * Ionic Components
        * Thumbnail left: http://ionicframework.com/docs/components/#item-thumbnails 
+    * [Source code](https://github.com/skounis/eestec-articles-ionic)
 
 
 
