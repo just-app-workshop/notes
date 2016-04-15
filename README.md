@@ -172,6 +172,11 @@
     * Wordpress site
         * http://demo.titaniumtemplates.com/wordpress/
         * [JSON API Plugin](https://wordpress.org/plugins/json-api/)
+    * Demo URLs
+       * http://demo.titaniumtemplates.com/wordpress/
+       * http://demo.titaniumtemplates.com/wordpress/?json=1
+       * http://demo.titaniumtemplates.com/wordpress/?p=38
+       * http://demo.titaniumtemplates.com/wordpress/?p=38&json=1
 * Εργαλεία και αναφορές
     * [Postman](https://www.getpostman.com/)
     * [Source code](https://github.com/skounis/eestec-articles-ionic)
