@@ -186,6 +186,15 @@
     * Promise, the `$q` service
         * https://docs.angularjs.org/api/ng/service/$q 
 
+### Firebase App Ionic 
+* Δημιουργία και Αρχικοποίηση Git Repo και σκελετού εφαρμογής
+* Firebase Project
+    * [JSON Data for Import](https://github.com/just-app-workshop/firebase-ionic/blob/master/misc/firebase/business-directory-export.json)
+* Εργαλεία και αναφορές
+    * [Firebase](https://www.firebase.com/)
+        * [Interactive Tutorial](https://www.firebase.com/tutorial/#gettingstarted)
+    * [Angular fire](https://www.firebase.com/docs/web/libraries/angular/)
+    * [Source code](https://github.com/just-app-workshop/firebase-ionic)
 
 ## Ασκήσεις
 ### Άσκηση 1 - AngularJS / Javascript
