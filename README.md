@@ -196,10 +196,12 @@
     * [Angular fire](https://www.firebase.com/docs/web/libraries/angular/)
     * [Source code](https://github.com/just-app-workshop/firebase-ionic)
 
-### Barebone Ionic
-Ionic εφαρμογή με παραδείγματα 
+### Real Ionic Applications
+Πραγματικές Ionic εφαρμογες
 * [Barebone Ionic](http://codecanyon.net/item/barebone-ionic-full-application/115651960
-* Download link {TBD}
+    * Download links {TBD}
+* [Business Directory](http://codecanyon.net/item/business-directory-ionic-full-application-with-firebase-backend/14681052)
+    * Download links {TBD} 
 
 ## Ασκήσεις
 ### Άσκηση 1 - AngularJS / Javascript
