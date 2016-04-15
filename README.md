@@ -196,6 +196,11 @@
     * [Angular fire](https://www.firebase.com/docs/web/libraries/angular/)
     * [Source code](https://github.com/just-app-workshop/firebase-ionic)
 
+### Barebone Ionic
+Ionic εφαρμογή με παραδείγματα 
+* [Barebone Ionic](http://codecanyon.net/item/barebone-ionic-full-application/115651960
+* Download link {TBD}
+
 ## Ασκήσεις
 ### Άσκηση 1 - AngularJS / Javascript
 Κάντε fork το παρακάτω repository και συμπληρώστε τα κενά στο αρχείο `app/scripts/controllers/play.js`. Υπάρχουν σχόλια με την ένδειξη `TODO`.
