@@ -118,36 +118,6 @@
         * [Screen 2](https://github.com/just-app-workshop/notes/blob/master/assets/ionic-view-2.png)
         * [Screen 3](https://github.com/just-app-workshop/notes/blob/master/assets/ionic-view-3.png)
 
-### Version control
-Τεχνικές ανάπτυξης κώδικα, παρακολούθησης και συνεργασίας. 
-* [Git](https://git-scm.com/)
-* [GitHub](https://github.com/)
-* [Bitbucket](https://bitbucket.org/)
-* Παράδειγμα
-
-### Yeoman Generators. 
-Εισαγωγη στις γεννήτριες κώδικα και παραδείγματα χρήσης τους.
-* [yeoman.io](http://yeoman.io/)
-* Παραδείγματα
-    * [HTML5 Boilerplate generator](https://github.com/h5bp/generator-h5bp)
-    * [AngularJS generator](https://github.com/yeoman/generator-angular)
-
-### [Amazon S3](https://aws.amazon.com/s3/)
-> Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable cloud storage. Amazon S3 is easy to use object storage, with a simple web service interface to store and retrieve any amount of data from anywhere on the web. With Amazon S3, you pay only for the storage you actually use. There is no minimum fee and no setup cost.
-
-* Πιστωτική Κάρτα 
-    * [Number26](https://number26.eu/)  
-
-#### Παραδείγματα
-1. Δημιουργία Bucket
-2. Δημιουργία access key 
-3. Upload και ρύθμιση δικαιωμάτων 
-
-#### Tools
-* https://cyberduck.io
-* http://s3browser.com/
-* 
-
 ### News App Ionic
 * Δημιουργία και Αρχικοποίηση Git Repo και σκελετού εφαρμογής
 * Πηγές δεδομένων
@@ -165,6 +135,46 @@
        * Thumbnail left: http://ionicframework.com/docs/components/#item-thumbnails 
     * [Source code](https://github.com/skounis/eestec-articles-ionic)
 
+## Εβδομάδα 4η
+
+### Yeoman Generators. 
+Εισαγωγη στις γεννήτριες κώδικα και παραδείγματα χρήσης τους.
+* [yeoman.io](http://yeoman.io/)
+* Παραδείγματα
+    * [HTML5 Boilerplate generator](https://github.com/h5bp/generator-h5bp)
+    * [AngularJS generator](https://github.com/yeoman/generator-angular)
+
+
+### [Amazon S3](https://aws.amazon.com/s3/)
+> Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable cloud storage. Amazon S3 is easy to use object storage, with a simple web service interface to store and retrieve any amount of data from anywhere on the web. With Amazon S3, you pay only for the storage you actually use. There is no minimum fee and no setup cost.
+
+* Πιστωτική Κάρτα 
+    * [Number26](https://number26.eu/)  
+
+#### Παραδείγματα
+1. Δημιουργία Bucket
+2. Δημιουργία access key 
+3. Upload και ρύθμιση δικαιωμάτων 
+
+#### Tools
+* https://cyberduck.io
+* http://s3browser.com/
+
+### Version control
+Τεχνικές ανάπτυξης κώδικα, παρακολούθησης και συνεργασίας. 
+* [Git](https://git-scm.com/)
+* [GitHub](https://github.com/)
+* [Bitbucket](https://bitbucket.org/)
+* Παράδειγμα
+
+### News App Ionic - Μερος 2ο
+* Πηγές δεδομένων
+    * Wordpress site
+        * http://demo.titaniumtemplates.com/wordpress/
+        * [JSON API Plugin](https://wordpress.org/plugins/json-api/)
+* Εργαλεία και αναφορές
+    * [Postman](https://www.getpostman.com/)
+    * [Source code](https://github.com/skounis/eestec-articles-ionic)
 
 
 ## Ασκήσεις
