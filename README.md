@@ -177,9 +177,14 @@
        * http://demo.titaniumtemplates.com/wordpress/?json=1
        * http://demo.titaniumtemplates.com/wordpress/?p=38
        * http://demo.titaniumtemplates.com/wordpress/?p=38&json=1
+* Δημιουργία ασύγχρονης μεθόδου
+    * https://github.com/skounis/eestec-articles-ionic/blob/master/app/scripts/wordpress/wordpress.service.js#L53
+    * https://github.com/skounis/eestec-articles-ionic/blob/master/app/scripts/wordpress/wordpress-articles.controller.js#L26
 * Εργαλεία και αναφορές
     * [Postman](https://www.getpostman.com/)
     * [Source code](https://github.com/skounis/eestec-articles-ionic)
+    * Promise, the `$q` service
+        * https://docs.angularjs.org/api/ng/service/$q 
 
 
 ## Ασκήσεις
