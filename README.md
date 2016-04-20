@@ -226,7 +226,13 @@
 
 * https://github.com/just-app-workshop/articles-ionic
 
+Δουλέψτε στο δικό σας repository που θα προκύψει από την διαδικασία fork. Κάντε commit/push εκεί τις αλλαγές σας και όταν έχετε τελειώσει ετοιμάστε ένα [Pull Request](https://help.github.com/articles/using-pull-requests/)
 
+#### Οδηγίες
+Στο αρχείο `wordpress.service.js` υπάρχ ... 
+1. ....
+2. ....
+3. ....
 
 ## Bonus: Dependency injection
 * [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
