@@ -247,7 +247,12 @@
 #### Οδηγίες
 Στο αρχείο `firebase.service.js` υπάρχει η μέθοδος `getArticle`. Σκοπός της `getArticle` είναι η ανάκτηση από την υπηρεσία Firebase του `article` για το συγκεκριμένο κάθε φορά id. 
 
-Συμπληρώστε την υλοποίηση και κάντε ανάκτηση του συγκεκριμένου κάθε φορά άρθρου με χρήση των υπηρεσιών (services) `$firebaseArray` ή/και `$firebaseObject` 
+Συμπληρώστε την υλοποίηση και κάντε ανάκτηση του συγκεκριμένου κάθε φορά άρθρου με χρήση των υπηρεσιών (services) `$firebaseArray` ή/και `$firebaseObject`.
+
+Εξετάστε πιθανές βελτιώσεις ή τροποποιήσεις στα αρχεία
+
+* `app/scripts/firebase/firebase-article.controller.js`
+* `app/scripts/firebase/firebase-article.html`
 
 Χρήσιμοι σύνδεσμοι:
 
