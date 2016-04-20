@@ -229,10 +229,9 @@
 Δουλέψτε στο δικό σας repository που θα προκύψει από την διαδικασία fork. Κάντε commit/push εκεί τις αλλαγές σας και όταν έχετε τελειώσει ετοιμάστε ένα [Pull Request](https://help.github.com/articles/using-pull-requests/)
 
 #### Οδηγίες
-Στο αρχείο `wordpress.service.js` υπάρχ ... 
-1. ....
-2. ....
-3. ....
+Στο αρχείο `wordpress.service.js` υπάρχει η μέθοδος `getArticle` που αναζητά ένα article μέσα στο collection που ήδη υπάρχει cached στην μνήμη και έχει δημιουργηθεί από προηγουμενη κλήση της `getArticles`
+
+Τροποποιήστε την υλοποίηση και κάντε ανάκτηση του συγκεκριμένου κάθε φορά άρθρου με εκτέλεση ενός νέου `http` request  
 
 ## Bonus: Dependency injection
 * [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
