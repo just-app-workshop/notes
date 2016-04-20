@@ -222,7 +222,11 @@
 Τα σημεία όπου πρέπει να συμπληρώσετε τον κώδικα έχουν σημειωθεί με την ένδειξη `TODO`
 
 ### Άσκηση 2 - Wordpress Call
-* {TBD: ανάκτηση ενός άρθρου με http request από το WP JSON API}
+Κάντε fork το παρακάτω repository και συμπληρώστε τα κενά στο αρχείο `app/scripts/wordpress/wordpress.service.js`. Υπάρχουν σχόλια με την ένδειξη `TODO`.
+
+* https://github.com/just-app-workshop/articles-ionic
+
+
 
 ## Bonus: Dependency injection
 * [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
