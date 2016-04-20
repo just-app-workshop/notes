@@ -231,7 +231,11 @@
 #### Οδηγίες
 Στο αρχείο `wordpress.service.js` υπάρχει η μέθοδος `getArticle` που αναζητά ένα article μέσα στο collection που ήδη υπάρχει cached στην μνήμη και έχει δημιουργηθεί από προηγουμενη κλήση της `getArticles`
 
-Τροποποιήστε την υλοποίηση και κάντε ανάκτηση του συγκεκριμένου κάθε φορά άρθρου με εκτέλεση ενός νέου `http` request  
+Τροποποιήστε την υλοποίηση και κάντε ανάκτηση του συγκεκριμένου κάθε φορά άρθρου με εκτέλεση ενός νέου `http` request 
+
+Παράδειγμα:
+
+* http://demo.titaniumtemplates.com/wordpress/?p=38&json=1
 
 ## Bonus: Dependency injection
 * [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
