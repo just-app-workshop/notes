@@ -237,6 +237,27 @@
 
 * http://demo.titaniumtemplates.com/wordpress/?p=38&json=1
 
+### Άσκηση 3 - Firebase call
+Κάντε fork το παρακάτω repository και συμπληρώστε τα κενά στο αρχείο `app/scripts/firebase/firebase.service.js`. Υπάρχουν σχόλια με την ένδειξη `TODO`.
+
+* https://github.com/just-app-workshop/firebase-ionic
+
+Δουλέψτε στο δικό σας repository που θα προκύψει από την διαδικασία fork. Κάντε commit/push εκεί τις αλλαγές σας και όταν έχετε τελειώσει ετοιμάστε ένα [Pull Request](https://help.github.com/articles/using-pull-requests/)
+
+#### Οδηγίες
+Στο αρχείο `firebase.service.js` υπάρχει η μέθοδος `getArticle`. Σκοπός της `getArticle` είναι η ανάκτηση από την υπηρεσία Firebase του `article` για το συγκεκριμένο κάθε φορά id. 
+
+Συμπληρώστε την υλοποίηση και κάντε ανάκτηση του συγκεκριμένου κάθε φορά άρθρου με χρήσ των υπηρεσιών (services) `$firebaseArray` και `$firebaseObject` 
+
+Χρήσιμοι σύνδεσμοι:
+
+* https://www.firebase.com/docs/web/
+* https://www.firebase.com/docs/web/libraries/angular/
+* https://www.firebase.com/docs/web/libraries/angular/api.html
+* https://www.firebase.com/docs/web/examples.html
+
+
+
 ## Bonus: Dependency injection
 * [Dependency Injection @ wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
 * [Dependency Injection and AngularJS](https://docs.angularjs.org/guide/di)
