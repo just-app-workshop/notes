@@ -203,6 +203,30 @@
 * [Business Directory](http://codecanyon.net/item/business-directory-ionic-full-application-with-firebase-backend/14681052)
     * Download links {TBD} 
 
+## Εβδομάδα 5η
+
+### Ασκήσεις 2 και 3
+* Παρουσίαση pull requests
+    * Articles Ionic - https://github.com/just-app-workshop/articles-ionic/pulls
+    * Firebase Ionic - https://github.com/just-app-workshop/firebase-ionic/pulls
+* Παρουσίαση της πρότασης υλοποίησης
+
+### Async
+Λύσεις στα προβλήμματα που προκαλεί η ασύγχρονη φύση του call back.
+* https://github.com/caolan/async
+
+#### Παραδείγματα
+{TBD}
+
+### Postmap - Παράδειγμα
+* Appseed Restaurant (TBD)
+    * Authentication 
+    * Δοκιμαστικές κλήσης
+
+### Συζήτηση
+* Γνωριμία με τις ομάδες
+* Προγραμματισμός 
+
 ## Ασκήσεις
 ### Άσκηση 1 - AngularJS / Javascript
 Κάντε fork το παρακάτω repository και συμπληρώστε τα κενά στο αρχείο `app/scripts/controllers/play.js`. Υπάρχουν σχόλια με την ένδειξη `TODO`.
