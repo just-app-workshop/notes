@@ -220,6 +220,8 @@
 
 ### Postmap - Παράδειγμα
 * Appseed Restaurant (TBD)
+    * http://docs.appseedrestaurantapp.apiary.io/#
+ * Επίδειξη:
     * Authentication 
     * Δοκιμαστικές κλήσης
 
