@@ -216,7 +216,7 @@
 * https://github.com/caolan/async
 
 #### Παραδείγματα
-{TBD}
+* Playground Project: [Ionic Async](https://github.com/just-app-workshop/ionic-async) 
 
 ### Postmap - Παράδειγμα
 * Appseed Restaurant (TBD)
